@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/reffobic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="reffobic" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohamed-el-refai-2a59b3198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-el-refai-2a59b3198" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/refobic/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-el-refai-2a59b3198" height="30" width="40" /></a>
 <a href="https://instagram.com/refobic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="refobic" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/refobic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="refobic" height="30" width="40" /></a>
 </p>
