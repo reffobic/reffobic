@@ -1,7 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Mohamed El Refai</h1> 
 
-
-
 <p align="center">
   <em>
     <b>Computer Engineering</b> undergraduate at <b>The American University in Cairo</b>, passionate about <b>New technologies ⚙️</b>, <b>Mobile App Development 📱</b>, and <b>Game development 🎮</b> 
