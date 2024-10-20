@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **LeetCode**
 
-- 🌱 I’m currently learning **Applied Data Structures and algorithms**
+- 🌱 I’m currently learning **Software Engineering** & **Computer Oragnization & Assembly**
 
 - 🤝 I’m looking for help with **summer internships**
 
