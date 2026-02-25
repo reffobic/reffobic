@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Mohamed El Refai</h1> 
+<h1 align="center">Yooo <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Mohamed El Refai</h1> 
 
 <p align="center">
   <em>
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **LeetCode**
 
-- 🌱 I’m currently learning **Operating systems** & **Computer  networks**
+- 🌱 I’m currently learning **Network Security** & **DIgital Design 2**
 
 - 🤝 I’m looking for help with **summer internships**
 
