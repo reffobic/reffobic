@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **LeetCode**
 
-- 🌱 I’m currently learning **Network Security** & **DIgital Design 2**
+- 🌱 I’m currently learning **Embedded Systems** & **Web Security**
 
 - 🤝 I’m looking for help with **summer internships**
 
