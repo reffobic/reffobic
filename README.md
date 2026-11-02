@@ -31,8 +31,6 @@ const refai = {
 };
 ```
 
-<br clear="right" />
-
 ---
 
 ## 🔬 What I'm Up To
@@ -73,7 +71,6 @@ const refai = {
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=reffobic&theme=tokyonight&hide_border=true&background=0d1117" alt="streak" />
 </p>
-
 
 ---
 
