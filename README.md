@@ -17,8 +17,6 @@
 
 ## 👾 About Me
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="hi" />
-
 ```js
 const refai = {
   role: "Computer Engineering (Cybersecurity) @ AUC",
